@@ -11,6 +11,6 @@ We have implemented an algorithm capable of generating public and private keys a
 We used Python in our script.
 
 ```
-To Run our script :
+<B>To Run our script :</b>
 You have to run with python the file index.py.
 ```
