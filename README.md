@@ -2,7 +2,7 @@
 
 ## By ELISABETH Lionel and DO PHAM Alexandre 
 
-<img src="img/rsa.png">
+<img src="rsa.png">
 
 
 RSA is an algorithm used by modern computers to encrypt and decrypt messages. 
