@@ -5,10 +5,11 @@
 <img src="rsa.png">
 
 RSA is an algorithm used by modern computers to encrypt and decrypt messages. 
+<br />
 It is an asymmetric cryptographic algorithm. 
 
 We have implemented an algorithm capable of generating public and private keys and decrypting messages.
-\n
+<br />
 We used `Python` in our script.
 
 ```
